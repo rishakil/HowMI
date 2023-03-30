@@ -1,0 +1,15 @@
+D:\HowMI\HowMI\HowMI\obj\Debug\net6.0\HowMI.csproj.AssemblyReference.cache
+D:\HowMI\HowMI\HowMI\obj\Debug\net6.0\HowMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\HowMI\HowMI\HowMI\obj\Debug\net6.0\HowMI.AssemblyInfoInputs.cache
+D:\HowMI\HowMI\HowMI\obj\Debug\net6.0\HowMI.AssemblyInfo.cs
+D:\HowMI\HowMI\HowMI\obj\Debug\net6.0\HowMI.csproj.CoreCompileInputs.cache
+D:\HowMI\HowMI\HowMI\bin\Debug\net6.0\HowMI.exe
+D:\HowMI\HowMI\HowMI\bin\Debug\net6.0\HowMI.deps.json
+D:\HowMI\HowMI\HowMI\bin\Debug\net6.0\HowMI.runtimeconfig.json
+D:\HowMI\HowMI\HowMI\bin\Debug\net6.0\HowMI.dll
+D:\HowMI\HowMI\HowMI\bin\Debug\net6.0\HowMI.pdb
+D:\HowMI\HowMI\HowMI\obj\Debug\net6.0\HowMI.dll
+D:\HowMI\HowMI\HowMI\obj\Debug\net6.0\refint\HowMI.dll
+D:\HowMI\HowMI\HowMI\obj\Debug\net6.0\HowMI.pdb
+D:\HowMI\HowMI\HowMI\obj\Debug\net6.0\HowMI.genruntimeconfig.cache
+D:\HowMI\HowMI\HowMI\obj\Debug\net6.0\ref\HowMI.dll
